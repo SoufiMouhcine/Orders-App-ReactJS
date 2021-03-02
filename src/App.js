@@ -3,7 +3,6 @@ import './App.css';
 import { Orders } from './Components/Orders'
 import  {Navigation} from './Components/Navigation'
 import { BrowserRouter, Route, Switch, NavLink } from 'react-router-dom'
-
 function App() {
   return (
     <BrowserRouter>
